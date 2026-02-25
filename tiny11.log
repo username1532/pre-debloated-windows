@@ -1,10 +1,10 @@
 ﻿**********************
 Windows PowerShell transcript start
 Start time: 20260222094255
-Username: LUKELAPTOP123\lukebarbon
-RunAs User: LUKELAPTOP123\lukebarbon
+Username: [im not telling my name]LAPTOP123\[im not telling you]
+RunAs User: [im not telling my name]APTOP123\[im not telling you]
 Configuration Name: 
-Machine: LUKELAPTOP123 (Microsoft Windows NT 10.0.26300.0)
+Machine: [im not telling my name]LAPTOP123 (Microsoft Windows NT 10.0.26300.0)
 Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 Process ID: 17340
 PSVersion: 5.1.26100.7877
@@ -6752,7 +6752,6 @@ Prevents installation of Teams:
 Prevent installation of New Outlook :
 Deleting scheduled task definition files...
 Task files have been deleted.
-Disabling Windows Update...
 
 
 
@@ -6769,7 +6768,6 @@ Disabling Windows Update...
 
 
 
-Disabling Windows Defender
 
 Tweaking complete!
 Unmounting Registry...
@@ -6853,3 +6851,4 @@ Performing Cleanup...
 Windows PowerShell transcript end
 End time: 20260222150614
 **********************
+
