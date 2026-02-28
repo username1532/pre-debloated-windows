@@ -1,8 +1,13 @@
 # pre-debloated-windows
+
 windows 11 pro images that come with Explorer Patcher
+
 use 'irm https://get.activated.win | iex' to activate
-build #1 is out btw
+
+build #1.1 is out btw
+
 creds to ntdev for tiny11builder 
+
 https://github.com/ntdevlabs/tiny11builder
 
 
