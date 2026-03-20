@@ -1,5 +1,5 @@
 # pre-debloated-windows
-
+i officially quit this repo 
 windows 11 pro images that come with Explorer Patcher
 
 use 'irm https://get.activated.win | iex' to activate
